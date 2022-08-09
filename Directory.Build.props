@@ -1,0 +1,7 @@
+<Project>
+	<PropertyGroup>
+		<AbpPackageVersion>5.3.3</AbpPackageVersion>
+		<MicrosoftVersion>6.0.5</MicrosoftVersion>
+		<IDS4Version>4.1.2</IDS4Version>
+	</PropertyGroup>
+</Project>
